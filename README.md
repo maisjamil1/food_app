@@ -14,5 +14,5 @@ https://drive.google.com/file/d/19dLsSbdl8g4lsLtkf-sbVBvD-B9fjb4J/view?usp=drive
 ## To run the project you have to :
 
 - creats a .env file that contains your VITE_API_KEY please check .env.example 
-- npm i
-- npm run dev
+- `npm i`
+- `npm run dev`
