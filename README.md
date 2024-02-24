@@ -1,4 +1,4 @@
-## food_app
+## Food APP 
 - Feel free to explore my app using this link: https://food-app-flax-one.vercel.app/
 
 - I really enjoyed working on this project. For the first time, I tried using Chadcn (https://ui.shadcn.com/docs). What's impressive about Chadcn is that it's  a collection of reusable components that seamlessly integrate into your applications. It is very helpful, especially for adding a dark mode feature, and I plan to use it more in the future.
