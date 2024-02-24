@@ -1,5 +1,5 @@
-## Feel free to explore my app using this link:
-https://food-app-flax-one.vercel.app/
+## food_app
+- Feel free to explore my app using this link: https://food-app-flax-one.vercel.app/
 
 - I really enjoyed working on this project. For the first time, I tried using Chadcn (https://ui.shadcn.com/docs). What's impressive about Chadcn is that it's  a collection of reusable components that seamlessly integrate into your applications. It is very helpful, especially for adding a dark mode feature, and I plan to use it more in the future.
 
@@ -10,6 +10,7 @@ https://food-app-flax-one.vercel.app/
 Note : I ran into a problem because the API only allows 150 requests per key.Hopefully, the deployed version will work without problems. If it doesn't, I have attached a video demo for reference.
 https://drive.google.com/file/d/19dLsSbdl8g4lsLtkf-sbVBvD-B9fjb4J/view?usp=drive_link
 
+-----------------------------------------------------------------
 
 # React + TypeScript + Vite
 
