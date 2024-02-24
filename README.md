@@ -11,11 +11,11 @@
 https://drive.google.com/file/d/19dLsSbdl8g4lsLtkf-sbVBvD-B9fjb4J/view?usp=drive_link
 
 -----------------------------------------------------------------
-# To run the project you have to :
+## To run the project you have to :
 
 -  creats a .env file that contains your VITE_API_KEY please check .env.example 
 
-## React + TypeScript + Vite
+### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
