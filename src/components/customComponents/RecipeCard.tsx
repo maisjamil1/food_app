@@ -28,11 +28,6 @@ const RecipeCard: FC<RecipeCard> = ({ recipe }) => {
         <CardFooter className="flex-col items-start">
           <div>
             <p className="my-2 font-semibold text-lg">{recipe.title}</p>
-            {(recipe?.cuisines || [])?.map((cuisine) => (
-              <span className="text-gray-500" key={cuisine}>
-                {cuisine} .{" "}
-              </span>
-            ))}
           </div>
         </CardFooter>
       </Card>

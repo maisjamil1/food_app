@@ -9,7 +9,7 @@ import {
   getRecipeDetails,
   getRecipesComplexSearch,
 } from "@/services/api.service";
-import { IRecipeDetails } from "@/types/recipeDetails";
+import { IRecipeDetails } from "@/types/recipe";
 
 export function useGetRecipesComplexSearch(
   dto: GetRecipesComplexSearchDTO,

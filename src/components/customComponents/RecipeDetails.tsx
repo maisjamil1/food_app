@@ -1,4 +1,4 @@
-import { IRecipeDetails } from "@/types/recipeDetails";
+import { IRecipeDetails } from "@/types/recipe";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 interface RecipeDetailsProps {
   recipe: IRecipeDetails | undefined;
