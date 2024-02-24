@@ -7,7 +7,7 @@
 
 - I wished I could have used Storybook (https://storybook.js.org/docs/get-started/why-storybook) in this project. It would have been great for testing and writing down details about each component and for building a design system.
 
-Note : I ran into a problem because the API only allows 150 requests per key.Hopefully, the deployed version will work without problems. If it doesn't, I have attached a video demo for reference.
+- Note : I ran into a problem because the API only allows 150 requests per key.Hopefully, the deployed version will work without problems. If it doesn't, I have attached a video demo for reference.
 https://drive.google.com/file/d/19dLsSbdl8g4lsLtkf-sbVBvD-B9fjb4J/view?usp=drive_link
 
 -----------------------------------------------------------------
