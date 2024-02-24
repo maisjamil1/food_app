@@ -1,10 +1,15 @@
 import { IRecipeDetails } from "@/types/recipe";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { useEffect } from "react";
 interface RecipeDetailsProps {
   recipe: IRecipeDetails | undefined;
 }
 
 const RecipeDetails = ({ recipe }: RecipeDetailsProps) => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   if (!recipe) return;
   return (
     <section className="container flex-grow mx-auto max-w-[1200px] py-5 lg:grid lg:grid-cols-2 lg:py-10 lg:h-[100vh]">
