@@ -3,7 +3,7 @@ import { NUMBER_OF_RECIPES } from "@/constants";
 import {
   GetRecipeDetailsDTO,
   GetRecipesComplexSearchDTO,
-} from "@/types/recipe";
+} from "@/_types/recipe";
 
 export const getRecipesComplexSearch = async (
   dto: GetRecipesComplexSearchDTO,

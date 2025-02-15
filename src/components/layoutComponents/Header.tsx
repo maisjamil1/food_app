@@ -36,8 +36,8 @@ const Header: FC = () => {
               </SheetContent>
             </Sheet>
             <NavLink to="/" className="ml-4 lg:ml-0">
-              <h1 className="text-xl font-bold text-green-600">
-                Hakona Matata
+              <h1 className="text-2xl font-bold ">
+                <span className={"text-red-500"}>ili</span><bold className="text-2xl font-bold text-gray-800 " >Cash</bold>
               </h1>
             </NavLink>
           </div>

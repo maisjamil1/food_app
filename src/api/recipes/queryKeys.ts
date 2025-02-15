@@ -1,7 +1,7 @@
 import {
   GetRecipeDetailsDTO,
   GetRecipesComplexSearchDTO,
-} from "@/types/recipe";
+} from "@/_types/recipe";
 
 export const recipesKeys = {
   all: ["recipes"] as const,

@@ -2,14 +2,14 @@ import {
   GetRecipeDetailsDTO,
   GetRecipesComplexSearchDTO,
   RecipesComplexSearchResponse,
-} from "@/types/recipe";
+} from "@/_types/recipe";
 import { UseQueryOptions, useQuery } from "react-query";
 import { recipesKeys } from "./queryKeys";
 import {
   getRecipeDetails,
   getRecipesComplexSearch,
-} from "@/services/api.service";
-import { IRecipeDetails } from "@/types/recipe";
+} from "@/_services/api.service";
+import { IRecipeDetails } from "@/_types/recipe";
 
 export function useGetRecipesComplexSearch(
   dto: GetRecipesComplexSearchDTO,

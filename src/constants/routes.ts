@@ -4,15 +4,12 @@ export const ROUTES = [
     label: "Home",
   },
   {
-    href: "/cuisine/asian",
-    label: "Asian",
+    href: "/merchants",
+    label: "Merchants",
   },
+
   {
-    href: "/cuisine/mexican",
-    label: "Mexican",
-  },
-  {
-    href: "/cuisine/indian",
-    label: "Indian",
+    href: "/offers",
+    label: "Offers",
   },
 ];
